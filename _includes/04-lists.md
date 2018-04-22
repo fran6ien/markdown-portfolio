@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- Data Master
+- Fullstack Web Developer
+- Android Developer
